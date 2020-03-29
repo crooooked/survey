@@ -27,7 +27,6 @@ The server collects the questionnaire answers and sends them back to the web sid
   The results of the questionnaire are displayed on the web page.
 
 # Animation display
-![https://github.com/crooooked/survey/blob/master/image-folders/SvyU.gif]
-
+![img](https://github.com/crooooked/survey/blob/master/image-folders/SvyU.gif)
 
 
