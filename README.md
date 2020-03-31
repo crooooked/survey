@@ -23,8 +23,7 @@ The server collects the questionnaire answers and sends them back to the web sid
   Users must unlock it when they want to leave the application or roll back.
 * ### Database read and write
   Read and write the contents of the questionnaire and answers to the database
-* ### Echo result
-  The results of the questionnaire are displayed on the web page.
+
 
 # Animation display
 ![img](https://github.com/crooooked/survey/blob/master/image-folders/SvyU.gif)
