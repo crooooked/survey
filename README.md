@@ -15,7 +15,7 @@ The server collects the questionnaire answers and sends them back to the web sid
   Log in to the website https://svyu.dl444.net/ to generate a custom questionnaire.
 * ### Generate the QR code
   The web page generates the only QR code corresponding to the questionnaire, and the information of the QR code clock is the id of the questionnaire.
-* ### scan the QR code
+* ### Scan the QR code
   The client supports the function of scanning the QR code and extracting the id number from the QR.
 * ### Display questionnaire
   The client displays the questionnaire.Participants can fill out the questionnaire `offline`.
