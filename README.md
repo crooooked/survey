@@ -28,4 +28,13 @@ The server collects the questionnaire answers and sends them back to the web sid
 # Animation display
 ![img](https://github.com/crooooked/survey/blob/master/image-folders/SvyU.gif)
 
+# Collaborators
+### For contributions before 3/25/2020
+
+### Amber
+### David
+### Martin
+### Ofrila
+### Walter
+
 
